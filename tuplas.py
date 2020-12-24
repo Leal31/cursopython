@@ -1,6 +1,7 @@
 #tuplas
+
 tupla = (5, "Que tal", 6.2, [1, 2, 3], 81)
-lista = list(tupla )
+lista = list(tupla)
 print(tupla[-2])
 print(tupla)
 print(tupla[1:4])
@@ -11,4 +12,3 @@ print(len(tupla))
 print(lista)
 #convertir lista a tuplas
 #x = tuple(z)
-print(len(tupla))
