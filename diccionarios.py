@@ -27,4 +27,10 @@ print(equipo.keys())
 print(equipo.values())
 #como saber valores del diccionario
 print(equipo.items())
-
+#Cuantos elementos hay en el diccionario
+print(len(equipo))
+#borrar todos los elementos del diccionario
+'''
+equipo.clear()
+print(equipo)
+'''
